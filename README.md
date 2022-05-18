@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Thanks for checking out my page ❤️
 
 <!--
 **ApplePieAngel/ApplePieAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
