@@ -1,5 +1,7 @@
 ### Hi there! Thanks for checking out my page ❤️
 
+Primarily used ADO for source control during mid 2023 to 2024.
+
 <!--
 **ApplePieAngel/ApplePieAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
